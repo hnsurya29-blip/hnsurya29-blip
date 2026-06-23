@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya HN</h1>
-<h3 align="center">ISE Student | Aspiring Full Stack Developer & AI Engineer</h3>
+<h3 align="center">ISE Student | Aspiring Full Stack Developer & AI Enthusiast</h3>
 
 
 ###
@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning **Java DSA, nodejs(expressjs)**
 
-- 💬 Ask me about **Java,Javascript,reactjs,Python**  
+- 💬 Ask me about **Java,Javascript,React,Python**  
 
 - 📫 How to reach me **hnsurya29@gmail.com**
 
